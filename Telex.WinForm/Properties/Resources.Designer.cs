@@ -59,5 +59,15 @@ namespace Telex.WinForm.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _18_182400_free_icons_png_telegram_logo_png {
+            get {
+                object obj = ResourceManager.GetObject("18-182400_free-icons-png-telegram-logo-png", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
